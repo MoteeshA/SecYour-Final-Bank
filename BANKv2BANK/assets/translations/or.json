@@ -1,0 +1,186 @@
+{
+  "app_title": "ଡମି ବ୍ୟାଙ୍କ ଆପ୍",
+
+  "login": "ଲଗଇନ",
+  "register": "ରେଜିଷ୍ଟର",
+  "registration": "ରେଜିଷ୍ଟ୍ରେସନ୍",
+  "welcome": "ଡମି ବ୍ୟାଙ୍କକୁ ସ୍ୱାଗତ",
+  "welcome_securebank": "SecureBank କୁ ପୁନଃ ସ୍ୱାଗତ",
+
+  "choose_language": "ଭାଷା ବାଛନ୍ତୁ",
+  "choose_language_prompt": "ଦୟାକରି ଆପଣଙ୍କ ପସନ୍ଦର ଭାଷା ବାଛନ୍ତୁ",
+  "english": "ଇଂରାଜୀ",
+  "odia": "ଓଡ଼ିଆ",
+
+  "help_support": "ସାହାଯ୍ୟ ଓ ସମର୍ଥନ",
+
+  "face_id": "Face ID",
+  "fingerprint": "ଅଙ୍ଗୁଠିଛାପ",
+
+  "auth_reason": "{method} ସହିତ ପ୍ରମାଣିକରଣ କରନ୍ତୁ",
+  "auth_success": "✅ ପ୍ରମାଣିକରଣ ସଫଳ",
+  "auth_failed": "❌ ପ୍ରମାଣିକରଣ ବିଫଳ",
+  "auth_error_prefix": "⚠️ ତ୍ରୁଟି:",
+
+  "incorrect_pin": "❌ ଭୁଲ ପିନ୍",
+  "login_success": "✅ ଲଗଇନ ସଫଳ",
+  "password_length_error": "❌ ପାସୱାର୍ଡ 6 ଡିଜିଟ୍ ହେବା ଉଚିତ",
+
+  "biometric_login_title": "{method} ଲଗଇନ",
+  "biometric_login_desc": "ତ୍ୱରିତ ଓ ସୁରକ୍ଷିତ ଆକ୍ସେସ ପାଇଁ ଆପଣଙ୍କ {method} ବ୍ୟବହାର କରନ୍ତୁ",
+  "authenticate": "ପ୍ରମାଣିତ କରନ୍ତୁ",
+
+  "pin_login_title": "ପିନ୍ ଲଗଇନ",
+  "pin_login_desc": "ଆପଣଙ୍କ 6 ଡିଜିଟ୍ ପିନ୍ ଦେଇ ଆକାଉଣ୍ଟ ଆକ୍ସେସ କରନ୍ତୁ",
+  "forgot_pin": "ପିନ୍ ଭୁଲିଗଲେ?",
+  "forgot_pin_tapped": "ପିନ୍ ଭୁଲିଗଲେ ବିକଳ୍ପ ଦବାଗଲା",
+
+  "password_login_title": "ପାସୱାର୍ଡ ଲଗଇନ",
+  "password_login_desc": "ଆକାଉଣ୍ଟ ଆକ୍ସେସ ପାଇଁ 6 ଡିଜିଟ୍ ପାସୱାର୍ଡ ଦିଅନ୍ତୁ",
+  "six_digit_password_label": "6 ଡିଜିଟ୍ ପାସୱାର୍ଡ",
+
+  "loading": "ଲୋଡ୍ ହେଉଛି...",
+  "default_user_name": "ଉପଯୋଗକର୍ତ୍ତା",
+
+  "login_button": "ଲଗଇନ",
+
+  "add_another_user": "ଅନ୍ୟ ଉପଯୋଗକର୍ତ୍ତା ଯୋଡନ୍ତୁ",
+  "not_user_add_another": "{name} ନୁହନ୍ତି? ଅନ୍ୟ ଉପଯୋଗକର୍ତ୍ତା ଯୋଡନ୍ତୁ",
+
+  "footer_secure_privacy": "ସୁରକ୍ଷିତ ବ୍ୟାଙ୍କିଂ • ଗୋପନୀୟତା ନୀତି",
+
+  "registration_title": "ରେଜିଷ୍ଟ୍ରେସନ୍",
+
+  "phone_verification_title": "ଫୋନ୍ ପ୍ରମାଣିକରଣ",
+  "phone_verification_subtitle": "ଆମେ ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବରକୁ ଏକ OTP ପଠାଇବୁ",
+  "phone_number_label": "ଫୋନ୍ ନମ୍ବର",
+  "send_otp": "OTP ପଠାନ୍ତୁ",
+
+  "otp_title": "OTP ଦିଅନ୍ତୁ",
+  "otp_subtitle": "ଆପଣଙ୍କ ଫୋନ୍ କୁ ପଠାଇଥିବା 6 ଡିଜିଟ୍ OTP ଦିଅନ୍ତୁ\n(ଟେଷ୍ଟିଂ ପାଇଁ: 123456)",
+  "resend_otp_question": "କୋଡ୍ ମିଳିଲା ନାହିଁ?",
+  "resend_otp": "ପୁନଃ OTP ପଠାନ୍ତୁ",
+  "verify_otp": "OTP ସତ୍ୟାପନ କରନ୍ତୁ",
+
+  "security_details_title": "ସୁରକ୍ଷା ବିବରଣୀ",
+  "security_details_subtitle": "ଆକାଉଣ୍ଟ ପୁନଃପ୍ରାପ୍ତି ପାଇଁ ସୁରକ୍ଷା ସୂଚନା ସେଟ୍ କରନ୍ତୁ",
+  "full_name_label": "ପୂର୍ଣ୍ଣ ନାମ",
+  "security_question_label": "ସୁରକ୍ଷା ପ୍ରଶ୍ନ",
+  "security_answer_label": "ଆପଣଙ୍କ ଉତ୍ତର",
+  "continue_button": "ଚାଲୁ ରଖନ୍ତୁ",
+
+  "set_mpin_title": "MPIN ସେଟ୍ କରନ୍ତୁ",
+  "set_mpin_subtitle": "ସୁରକ୍ଷିତ ଲଗଇନ ପାଇଁ 6 ଡିଜିଟ୍ MPIN ସୃଷ୍ଟି କରନ୍ତୁ",
+  "enter_mpin_label": "MPIN ଦିଅନ୍ତୁ",
+  "confirm_mpin_label": "MPIN ପୁନଃ ଦିଅନ୍ତୁ",
+  "complete_registration_button": "ରେଜିଷ୍ଟ୍ରେସନ୍ ସମାପ୍ତ କରନ୍ତୁ",
+
+  "error_phone_invalid": "ଦୟାକରି ସଠିକ୍ 10 ଡିଜିଟ୍ ଫୋନ୍ ନମ୍ବର ଦିଅନ୍ତୁ",
+  "error_phone_digits_only": "ଫୋନ୍ ନମ୍ବର ଡିଜିଟ୍ ମାତ୍ର ହେବା ଉଚିତ",
+  "error_otp_invalid": "ଦୟାକରି ସଠିକ୍ 6 ଡିଜିଟ୍ OTP ଦିଅନ୍ତୁ",
+  "error_phone_missing": "ଫୋନ୍ ନମ୍ବର ଅବେଧ କିମ୍ବା ହାରାଇଛି",
+  "error_name_required": "ଦୟାକରି ନାମ ଦିଅନ୍ତୁ",
+  "error_security_question_required": "ଦୟାକରି ସୁରକ୍ଷା ପ୍ରଶ୍ନ ବାଛନ୍ତୁ",
+  "error_security_answer_required": "ଦୟାକରି ସୁରକ୍ଷା ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ",
+  "error_mpin_length": "MPIN ସଠିକ୍ 6 ଡିଜିଟ୍ ହେବା ଆବଶ୍ୟକ",
+  "error_mpin_mismatch": "MPIN ମେଳ ଖାଉନି",
+
+  "registration_complete": "✅ ରେଜିଷ୍ଟ୍ରେସନ୍ ସଫଳ! ଟ୍ରେନିଙ୍ଗ ଆରମ୍ଭ କରନ୍ତୁ।",
+  "otp_sending": "OTP ପଠାଯାଉଛି...",
+  "otp_sent": "OTP ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବରକୁ ପଠାଯାଇଛି",
+  "otp_verifying": "OTP ସତ୍ୟାପନ ହେଉଛି...",
+  "otp_verified": "✅ OTP ସତ୍ୟାପିତ! ଅଗ୍ରଗତି କରନ୍ତୁ।",
+  "otp_test_hint": "ଟେଷ୍ଟ ପାଇଁ 123456 ବ୍ୟବହାର କରନ୍ତୁ",
+
+  "home_dear": "ସ୍ନେହପୂର୍ଣ୍ଣ {name}",
+
+  "quick_actions": "ତ୍ୱରିତ କାର୍ଯ୍ୟ",
+  "send_money": "ଟଙ୍କା ପଠାନ୍ତୁ",
+  "account_summary": "ଆକାଉଣ୍ଟ ସାରାଂଶ",
+  "pay_bills": "ବିଲ୍ ଦିଅନ୍ତୁ",
+  "fixed_deposit": "ଫିକ୍ସଡ୍ ଡିପୋଜିଟ୍",
+  "rewards": "ପୁରସ୍କାର",
+  "recharge": "ରିଚାର୍ଜ",
+  "statements": "ଷ୍ଟେଟମେଣ୍ଟ",
+  "accounts": "ଆକାଉଣ୍ଟ",
+
+  "promo_medical_title": "ମେଡିକାଲ୍ ଖର୍ଚ୍ଚ",
+  "promo_medical_sub": "25% ପର୍ଯ୍ୟନ୍ତ କଭର୍ ପାନ୍ତୁ",
+
+  "pay_transfer": "ପେମେଣ୍ଟ ଓ ଟ୍ରାନ୍ସଫର୍",
+  "direct_pay": "ଡାଇରେକ୍ଟ ପେ",
+  "epassbook": "ଇ-ପାସବୁକ୍",
+  "beneficiaries": "ଲାଭଭୋଗୀ",
+
+  "cardless": "କାର୍ଡ୍-ଲେସ୍",
+  "loan": "ଋଣ",
+  "history": "ଇତିହାସ",
+  "manage": "ମ୍ୟାନେଜ୍",
+
+  "promo_upi_title": "ଦ୍ରୁତ UPI ପେମେଣ୍ଟ",
+  "promo_upi_sub": "ସୁବିଧାଜନକ କ୍ୟାଶ୍ଲେସ୍ ଟ୍ରାନ୍ସଫର୍",
+
+  "accounts_services": "ଆକାଉଣ୍ଟ ଓ ସେବା",
+  "passbook": "ପାସବୁକ୍",
+  "settings": "ସେଟିଙ୍ଗସ୍",
+
+  "credit_card": "କ୍ରେଡିଟ୍ କାର୍ଡ୍",
+  "debit_card": "ଡେବିଟ୍ କାର୍ଡ୍",
+  "security": "ସୁରକ୍ଷା",
+  "calculator": "କ୍ୟାଲ୍କୁଲେଟର୍",
+
+  "deposits": "ଡିପୋଜିଟ୍",
+  "fd_calculator": "FD କ୍ୟାଲ୍କୁଲେଟର୍",
+  "deposit_history": "ଡିପୋଜିଟ୍ ଇତିହାସ",
+  "manage_deposits": "ଡିପୋଜିଟ୍ ମ୍ୟାନେଜ୍",
+  "certificates": "ସର୍ଟିଫିକେଟ୍",
+
+  "promo_cc_title": "କ୍ରେଡିଟ୍ କାର୍ଡ୍",
+  "promo_cc_sub": "ଏବେ ଆପଣଙ୍କ ପ୍ରି-ଅପ୍ରୁଭ୍ ହୋଇଥିବା କାର୍ଡ୍ ପାଉନ୍ତୁ!",
+
+  "nav_all": "ସମସ୍ତ",
+  "nav_cards": "କାର୍ଡ୍",
+  "nav_transactions": "ଟ୍ରାନ୍ସାକ୍ସନ୍",
+  "nav_messages": "ସନ୍ଦେଶ",
+  "nav_more": "ଅଧିକ",
+
+  "ac_masked": "A/C No: ********4567",
+  "primary_account": "ପ୍ରାଥମିକ ଆକାଉଣ୍ଟ",
+  "portfolio_savings": "ସେଭିଂସ୍",
+  "portfolio_od_account": "OD ଆକାଉଣ୍ଟ",
+  "portfolio_deposits": "ଡିପୋଜିଟ୍",
+  "portfolio_loans": "ଲୋନ୍",
+
+  "within_bank_transfer": "ବ୍ୟାଙ୍କ ଭିତରେ ଟ୍ରାନ୍ସଫର୍",
+  "other_bank_transfer": "ଅନ୍ୟ ବ୍ୟାଙ୍କ ଟ୍ରାନ୍ସଫର୍",
+  "demand_draft": "ଡିମାଣ୍ଡ ଡ୍ରାଫ୍ଟ",
+  "upi_transfer": "UPI ଟ୍ରାନ୍ସଫର୍",
+
+  "within_bank_transfer": "ବ୍ୟାଙ୍କ ଭିତରେ ଟ୍ରାନ୍ସଫର୍",
+  "other_bank_transfer": "ଅନ୍ୟ ବ୍ୟାଙ୍କ ଟ୍ରାନ୍ସଫର୍",
+  "demand_draft": "ଡିମାଣ୍ଡ ଡ୍ରାଫ୍ଟ",
+  "upi_transfer": "UPI ଟ୍ରାନ୍ସଫର୍",
+
+  "within_bank_appbar_title": "କାନରା ବ୍ୟାଙ୍କ ଭିତରେ ଟ୍ରାନ୍ସଫର୍",
+  "within_bank_beneficiary_label": "ଲାଭଭୋଗୀ ଆକାଉଣ୍ଟ ନମ୍ବର",
+  "within_bank_beneficiary_hint": "ଆକାଉଣ୍ଟ ନମ୍ବର ଲେଖନ୍ତୁ",
+  "within_bank_amount_label": "ରାଶି",
+  "within_bank_amount_hint": "ରାଶି ଲେଖନ୍ତୁ",
+  "within_bank_remarks_label": "ରିମାର୍କସ୍",
+  "within_bank_remarks_hint": "ରିମାର୍କସ୍ (ଇଚ୍ଛାକ୍ରମୀ)",
+  "within_bank_proceed_button": "ଟ୍ରାନ୍ସଫର୍ ପାଇଁ ଆଗକୁ ବଢନ୍ତୁ",
+
+  "within_bank_confirm_title": "ଟ୍ରାନ୍ସଫର୍ ନିଶ୍ଚିତ କରନ୍ତୁ",
+  "within_bank_confirm_body": "ଲାଭଭୋଗୀ: {beneficiary}\nଆକାଉଣ୍ଟ ନମ୍ବର: {account}\nରାଶି: ₹{amount}\n\nଆପଣ ଏହି ଟ୍ରାନ୍ସଫର୍ କରିବାକୁ ନିଶ୍ଚିତ କି?",
+  "within_bank_confirm_cancel": "ରଦ୍ଦ କରନ୍ତୁ",
+  "within_bank_confirm_confirm": "ନିଶ୍ଚିତ କରନ୍ତୁ",
+
+  "within_bank_error_required": "ଆବଶ୍ୟକ",
+  "within_bank_error_amount_invalid": "ଦୟାକରି ସଠିକ୍ ରାଶି ଲେଖନ୍ତୁ",
+
+  "within_bank_tts_message": "ତୁମେ ମାନ୍ୟାକୁ {amount} ଟଙ୍କା ଟ୍ରାନ୍ସଫର କରିବାକୁ ଯାଉଛ। ଯଦି ଏହା ଠିକ୍ ଅଛି, ତେବେ ଟ୍ରାନ୍ସଫର କରିବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ ଦବାନ୍ତୁ।"
+
+
+
+
+}

@@ -1,0 +1,182 @@
+{
+  "app_title": "Dummy Bank App",
+
+  "login": "Login",
+  "register": "Register",
+  "registration": "Registration",
+  "welcome": "Welcome to Dummy Bank",
+  "welcome_securebank": "Welcome back to SecureBank",
+
+  "choose_language": "Choose Language",
+  "choose_language_prompt": "Please select your preferred language",
+  "english": "English",
+  "odia": "Odia",
+
+  "help_support": "Help & Support",
+
+  "face_id": "Face ID",
+  "fingerprint": "Fingerprint",
+
+  "auth_reason": "Authenticate with {method}",
+  "auth_success": "✅ Authentication Successful",
+  "auth_failed": "❌ Authentication Failed",
+  "auth_error_prefix": "⚠️ Error:",
+
+  "incorrect_pin": "❌ Incorrect PIN",
+  "login_success": "✅ Logged in successfully",
+  "password_length_error": "❌ Password must be 6 digits",
+
+  "biometric_login_title": "{method} Login",
+  "biometric_login_desc": "Use your {method} for quick and secure access",
+  "authenticate": "Authenticate",
+
+  "pin_login_title": "PIN Login",
+  "pin_login_desc": "Enter your 6-digit PIN to access your account",
+  "forgot_pin": "Forgot PIN?",
+  "forgot_pin_tapped": "Forgot PIN tapped",
+
+  "password_login_title": "Password Login",
+  "password_login_desc": "Enter your 6-digit password to access your account",
+  "six_digit_password_label": "6-digit Password",
+
+  "loading": "Loading...",
+  "default_user_name": "User",
+
+  "login_button": "Login",
+
+  "add_another_user": "Add Another User",
+  "not_user_add_another": "Not {name}? Add Another User",
+
+  "footer_secure_privacy": "Secure Banking • Privacy Policy",
+
+  "registration_title": "Registration",
+
+  "phone_verification_title": "Phone Verification",
+  "phone_verification_subtitle": "We'll send you a verification code to your phone number",
+  "phone_number_label": "Phone Number",
+  "send_otp": "Send OTP",
+
+  "otp_title": "Enter OTP",
+  "otp_subtitle": "Enter the 6-digit code sent to your phone\n(For testing, you can use 123456)",
+  "resend_otp_question": "Didn't receive code?",
+  "resend_otp": "Resend OTP",
+  "verify_otp": "Verify OTP",
+
+  "security_details_title": "Security Details",
+  "security_details_subtitle": "Set up your security information for account recovery",
+  "full_name_label": "Full Name",
+  "security_question_label": "Security Question",
+  "security_answer_label": "Your Answer",
+  "continue_button": "Continue",
+
+  "set_mpin_title": "Set MPIN",
+  "set_mpin_subtitle": "Create a 6-digit MPIN for secure login",
+  "enter_mpin_label": "Enter MPIN",
+  "confirm_mpin_label": "Confirm MPIN",
+  "complete_registration_button": "Complete Registration",
+
+  "error_phone_invalid": "Please enter a valid 10-digit phone number",
+  "error_phone_digits_only": "Phone number should contain digits only",
+  "error_otp_invalid": "Please enter a valid 6-digit OTP",
+  "error_phone_missing": "Phone number missing/invalid",
+  "error_name_required": "Please enter your name",
+  "error_security_question_required": "Please select a security question",
+  "error_security_answer_required": "Please provide an answer to the security question",
+  "error_mpin_length": "MPIN must be exactly 6 digits",
+  "error_mpin_mismatch": "MPINs do not match",
+
+  "registration_complete": "✅ Registration complete! Proceed to training.",
+  "otp_sending": "Sending OTP...",
+  "otp_sent": "OTP sent to your phone number",
+  "otp_verifying": "Verifying OTP...",
+  "otp_verified": "✅ OTP Verified! Continue with details.",
+  "otp_test_hint": "For testing, you can use 123456",
+
+  "home_dear": "Dear {name}",
+
+  "quick_actions": "Quick Actions",
+  "send_money": "Send Money",
+  "account_summary": "Account Summary",
+  "pay_bills": "Pay Bills",
+  "fixed_deposit": "Fixed Deposit",
+  "rewards": "Rewards",
+  "recharge": "Recharge",
+  "statements": "Statements",
+  "accounts": "Accounts",
+
+  "promo_medical_title": "Medical Expenses",
+  "promo_medical_sub": "Get covered up to 25%",
+
+  "pay_transfer": "Pay & Transfer",
+  "direct_pay": "Direct Pay",
+  "epassbook": "ePassbook",
+  "beneficiaries": "Beneficiaries",
+
+  "cardless": "Card-less",
+  "loan": "Loan",
+  "history": "History",
+  "manage": "Manage",
+
+  "promo_upi_title": "Fast UPI Payments",
+  "promo_upi_sub": "Convenient cashless transfers",
+
+  "accounts_services": "Accounts & Services",
+  "passbook": "Passbook",
+  "settings": "Settings",
+
+  "credit_card": "Credit Card",
+  "debit_card": "Debit Card",
+  "security": "Security",
+  "calculator": "Calculator",
+
+  "deposits": "Deposits",
+  "fd_calculator": "FD Calculator",
+  "deposit_history": "Deposit History",
+  "manage_deposits": "Manage Deposits",
+  "certificates": "Certificates",
+
+  "promo_cc_title": "Credit Card",
+  "promo_cc_sub": "Get your Pre-Approved Credit Card Now!",
+
+  "nav_all": "All",
+  "nav_cards": "Cards",
+  "nav_transactions": "Transactions",
+  "nav_messages": "Messages",
+  "nav_more": "More",
+
+  "ac_masked": "A/C No: ********4567",
+  "primary_account": "Primary Account",
+  "portfolio_savings": "Savings",
+  "portfolio_od_account": "OD Account",
+  "portfolio_deposits": "Deposits",
+  "portfolio_loans": "Loans",
+
+  "within_bank_transfer": "Within Bank Transfer",
+  "other_bank_transfer": "Other Bank Transfer",
+  "demand_draft": "Demand Draft",
+  "upi_transfer": "UPI Transfer",
+
+  "within_bank_transfer": "Within Bank Transfer",
+  "other_bank_transfer": "Other Bank Transfer",
+  "demand_draft": "Demand Draft",
+  "upi_transfer": "UPI Transfer",
+
+  "within_bank_appbar_title": "Transfer within Canara Bank",
+  "within_bank_beneficiary_label": "Beneficiary Account Number",
+  "within_bank_beneficiary_hint": "Enter account number",
+  "within_bank_amount_label": "Amount",
+  "within_bank_amount_hint": "Enter amount",
+  "within_bank_remarks_label": "Remarks",
+  "within_bank_remarks_hint": "Remarks (optional)",
+  "within_bank_proceed_button": "Proceed to Transfer",
+
+  "within_bank_confirm_title": "Confirm Transfer",
+  "within_bank_confirm_body": "Beneficiary: {beneficiary}\nAccount Number: {account}\nAmount: ₹{amount}\n\nAre you sure you want to proceed with this transfer?",
+  "within_bank_confirm_cancel": "Cancel",
+  "within_bank_confirm_confirm": "Confirm",
+
+  "within_bank_error_required": "Required",
+  "within_bank_error_amount_invalid": "Enter a valid amount",
+
+  "within_bank_tts_message": "You are about to transfer rupees {amount} to Manya. If this is correct, press Confirm to proceed to transfer."
+}

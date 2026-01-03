@@ -1,0 +1,313 @@
+{
+  "session": {
+    "start": "2025-09-04T02:20:01.810121",
+    "end": "2025-09-04T02:20:24.402294",
+    "duration_seconds": 22,
+    "penalties_applied": [],
+    "trust_score": "92.50"
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "google",
+    "model": "sdk_gphone64_arm64",
+    "manufacturer": "Google",
+    "version": "16",
+    "sdk_int": 36
+  },
+  "location": {
+    "latitude": 37.4219983,
+    "longitude": -122.084
+  },
+  "tap_durations_ms": [
+    88.0,
+    381.0,
+    99.0,
+    66.0,
+    71.0,
+    299.0,
+    48.0,
+    96.0,
+    70.0,
+    6902.0,
+    4198.0,
+    105.0,
+    1414.0,
+    3510.0,
+    107.0
+  ],
+  "tap_events": [
+    {
+      "timestamp": "2025-09-04T02:20:03.400204",
+      "screen": "HomePage",
+      "position": {
+        "dx": 188.984375,
+        "dy": 426.6393229166667
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-09-04T02:20:03.870138",
+      "screen": "HomePage",
+      "position": {
+        "dx": 185.65104166666666,
+        "dy": 381.9853515625
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-09-04T02:20:04.406564",
+      "screen": "HomePage",
+      "position": {
+        "dx": 185.65104166666666,
+        "dy": 381.9853515625
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-09-04T02:20:11.524383",
+      "screen": "HomePage",
+      "position": {
+        "dx": 275.3125,
+        "dy": 338.638671875
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-09-04T02:20:15.722765",
+      "screen": "HomePage",
+      "position": {
+        "dx": 276.9791666666667,
+        "dy": 206.30338541666666
+      },
+      "zone": "top_center"
+    },
+    {
+      "timestamp": "2025-09-04T02:20:17.242404",
+      "screen": "HomePage",
+      "position": {
+        "dx": 391.3151041666667,
+        "dy": 83.99153645833333
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-09-04T02:20:20.753249",
+      "screen": "HomePage",
+      "position": {
+        "dx": 192.31770833333334,
+        "dy": 428.2955729166667
+      },
+      "zone": "center"
+    }
+  ],
+  "swipe_events": [
+    {
+      "timestamp": "2025-09-04T02:20:11.720826",
+      "screen": "HomePage",
+      "duration_ms": 195,
+      "distance_px": 303.137385304485,
+      "speed_px_per_ms": 1.5545506938691538
+    },
+    {
+      "timestamp": "2025-09-04T02:20:11.722373",
+      "duration_ms": 198,
+      "distance_px": 33.0078125,
+      "speed_px_per_ms": 0.16670612373737373
+    },
+    {
+      "timestamp": "2025-09-04T02:20:16.088164",
+      "screen": "HomePage",
+      "duration_ms": 365,
+      "distance_px": 235.38574662415934,
+      "speed_px_per_ms": 0.6448924565045462
+    },
+    {
+      "timestamp": "2025-09-04T02:20:16.088963",
+      "duration_ms": 366,
+      "distance_px": 13.333333333333314,
+      "speed_px_per_ms": 0.036429872495446214
+    },
+    {
+      "timestamp": "2025-09-04T02:20:21.087122",
+      "screen": "HomePage",
+      "duration_ms": 331,
+      "distance_px": 327.6565755208333,
+      "speed_px_per_ms": 0.9898990197004027
+    },
+    {
+      "timestamp": "2025-09-04T02:20:21.088801",
+      "duration_ms": 336,
+      "distance_px": 0.0,
+      "speed_px_per_ms": 0.0
+    }
+  ],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-09-04T02:20:01.825280",
+      "tap_events": [
+        {
+          "timestamp": "2025-09-04T02:20:03.400204",
+          "screen": "HomePage",
+          "position": {
+            "dx": 188.984375,
+            "dy": 426.6393229166667
+          },
+          "zone": "center"
+        },
+        {
+          "timestamp": "2025-09-04T02:20:03.870138",
+          "screen": "HomePage",
+          "position": {
+            "dx": 185.65104166666666,
+            "dy": 381.9853515625
+          },
+          "zone": "center"
+        },
+        {
+          "timestamp": "2025-09-04T02:20:04.406564",
+          "screen": "HomePage",
+          "position": {
+            "dx": 185.65104166666666,
+            "dy": 381.9853515625
+          },
+          "zone": "center"
+        },
+        {
+          "timestamp": "2025-09-04T02:20:11.524383",
+          "screen": "HomePage",
+          "position": {
+            "dx": 275.3125,
+            "dy": 338.638671875
+          },
+          "zone": "center"
+        },
+        {
+          "timestamp": "2025-09-04T02:20:15.722765",
+          "screen": "HomePage",
+          "position": {
+            "dx": 276.9791666666667,
+            "dy": 206.30338541666666
+          },
+          "zone": "top_center"
+        },
+        {
+          "timestamp": "2025-09-04T02:20:17.242404",
+          "screen": "HomePage",
+          "position": {
+            "dx": 391.3151041666667,
+            "dy": 83.99153645833333
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-09-04T02:20:20.753249",
+          "screen": "HomePage",
+          "position": {
+            "dx": 192.31770833333334,
+            "dy": 428.2955729166667
+          },
+          "zone": "center"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-09-04T02:20:11.720826",
+          "screen": "HomePage",
+          "duration_ms": 195,
+          "distance_px": 303.137385304485,
+          "speed_px_per_ms": 1.5545506938691538
+        },
+        {
+          "timestamp": "2025-09-04T02:20:11.722373",
+          "duration_ms": 198,
+          "distance_px": 33.0078125,
+          "speed_px_per_ms": 0.16670612373737373
+        },
+        {
+          "timestamp": "2025-09-04T02:20:16.088164",
+          "screen": "HomePage",
+          "duration_ms": 365,
+          "distance_px": 235.38574662415934,
+          "speed_px_per_ms": 0.6448924565045462
+        },
+        {
+          "timestamp": "2025-09-04T02:20:16.088963",
+          "duration_ms": 366,
+          "distance_px": 13.333333333333314,
+          "speed_px_per_ms": 0.036429872495446214
+        },
+        {
+          "timestamp": "2025-09-04T02:20:21.087122",
+          "screen": "HomePage",
+          "duration_ms": 331,
+          "distance_px": 327.6565755208333,
+          "speed_px_per_ms": 0.9898990197004027
+        },
+        {
+          "timestamp": "2025-09-04T02:20:21.088801",
+          "duration_ms": 336,
+          "distance_px": 0.0,
+          "speed_px_per_ms": 0.0
+        }
+      ]
+    }
+  ],
+  "screen_durations": {
+    "HomePage": 37
+  },
+  "screen_recording_detected": false,
+  "session_input": {
+    "within_bank_transfer_amount": null,
+    "fd_broken": false,
+    "loan_taken": false,
+    "time_from_login_to_fd": null,
+    "time_from_login_to_loan": null,
+    "time_from_login_to_transaction": null,
+    "time_for_transaction": null
+  },
+  "behavior_analysis": [
+    {
+      "id": 6,
+      "timestamp": "2025-09-04T02:20:03.486696",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 86
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-04T02:20:03.968175",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 97
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-04T02:20:04.105423",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 69
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-04T02:20:04.453981",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 47
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-04T02:20:04.619621",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 68
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-04T02:20:17.317043",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 74
+    }
+  ]
+}

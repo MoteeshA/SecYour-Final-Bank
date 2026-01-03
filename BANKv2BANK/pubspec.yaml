@@ -1,0 +1,51 @@
+name: dummy_bank
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Localization & intl
+  flutter_localizations:
+    sdk: flutter
+  easy_localization: ^3.0.7
+  intl: ^0.20.2
+
+  # Icons
+  cupertino_icons: ^1.0.8
+
+  # Your local PhishSafe SDK
+  phishsafe_sdk:
+    path: /Users/amoteesh/Desktop/w/Final-Bank/BankSDKv2
+
+  # TFLite model
+  tflite_flutter: ^0.10.2
+
+  # SMS reading
+  telephony: ^0.2.0
+
+  # Storage
+  shared_preferences: ^2.2.3
+
+  # Biometrics
+  local_auth: ^2.1.7
+
+  # 🔊 Text-to-Speech for voice alerts
+  flutter_tts: ^3.8.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/model_light.tflite
+    - assets/translations/

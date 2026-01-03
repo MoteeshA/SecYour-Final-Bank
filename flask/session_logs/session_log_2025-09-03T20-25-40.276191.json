@@ -1,0 +1,288 @@
+{
+  "session": {
+    "start": "2025-09-03T20:25:10.009206",
+    "end": "2025-09-03T20:25:36.162013",
+    "duration_seconds": 26,
+    "penalties_applied": [],
+    "trust_score": "94.00"
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "google",
+    "model": "sdk_gphone64_arm64",
+    "manufacturer": "Google",
+    "version": "16",
+    "sdk_int": 36
+  },
+  "location": {
+    "latitude": 37.4219983,
+    "longitude": -122.084
+  },
+  "tap_durations_ms": [
+    103.0,
+    2039.0,
+    1486.0,
+    2610.0,
+    2364.0,
+    2195.0,
+    2365.0,
+    10536.0
+  ],
+  "tap_events": [
+    {
+      "timestamp": "2025-09-03T20:25:12.445486",
+      "screen": "HomePage",
+      "position": {
+        "dx": 59.986979166666664,
+        "dy": 490.9622395833333
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-09-03T20:25:14.588870",
+      "screen": "TransferTypePage",
+      "position": {
+        "dx": 111.328125,
+        "dy": 350.3180338541667
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-09-03T20:25:16.074991",
+      "screen": "DemandDraftPage",
+      "position": {
+        "dx": 74.66145833333333,
+        "dy": 176.640625
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-09-03T20:25:18.685968",
+      "screen": "DemandDraftPage",
+      "position": {
+        "dx": 69.98697916666667,
+        "dy": 211.30045572916666
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-09-03T20:25:21.050703",
+      "screen": "DemandDraftPage",
+      "position": {
+        "dx": 97.99479166666667,
+        "dy": 300.6376953125
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-09-03T20:25:23.245829",
+      "screen": "DemandDraftPage",
+      "position": {
+        "dx": 84.66145833333333,
+        "dy": 348.6328125
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-09-03T20:25:25.611136",
+      "screen": "DemandDraftPage",
+      "position": {
+        "dx": 157.65625,
+        "dy": 469.6373697916667
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-09-03T20:25:36.147596",
+      "screen": "HomePage",
+      "position": {
+        "dx": 397.9817708333333,
+        "dy": 91.98111979166667
+      },
+      "zone": "top_right"
+    }
+  ],
+  "swipe_events": [],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-09-03T20:25:10.017622",
+      "tap_events": [
+        {
+          "timestamp": "2025-09-03T20:25:12.445486",
+          "screen": "HomePage",
+          "position": {
+            "dx": 59.986979166666664,
+            "dy": 490.9622395833333
+          },
+          "zone": "middle_left"
+        },
+        {
+          "timestamp": "2025-09-03T20:25:36.147596",
+          "screen": "HomePage",
+          "position": {
+            "dx": 397.9817708333333,
+            "dy": 91.98111979166667
+          },
+          "zone": "top_right"
+        }
+      ],
+      "swipe_events": []
+    },
+    {
+      "screen": "TransferTypePage",
+      "timestamp": "2025-09-03T20:25:12.729736",
+      "tap_events": [
+        {
+          "timestamp": "2025-09-03T20:25:14.588870",
+          "screen": "TransferTypePage",
+          "position": {
+            "dx": 111.328125,
+            "dy": 350.3180338541667
+          },
+          "zone": "middle_left"
+        }
+      ],
+      "swipe_events": []
+    },
+    {
+      "screen": "DemandDraftPage",
+      "timestamp": "2025-09-03T20:25:14.839909",
+      "tap_events": [
+        {
+          "timestamp": "2025-09-03T20:25:16.074991",
+          "screen": "DemandDraftPage",
+          "position": {
+            "dx": 74.66145833333333,
+            "dy": 176.640625
+          },
+          "zone": "top_left"
+        },
+        {
+          "timestamp": "2025-09-03T20:25:18.685968",
+          "screen": "DemandDraftPage",
+          "position": {
+            "dx": 69.98697916666667,
+            "dy": 211.30045572916666
+          },
+          "zone": "top_left"
+        },
+        {
+          "timestamp": "2025-09-03T20:25:21.050703",
+          "screen": "DemandDraftPage",
+          "position": {
+            "dx": 97.99479166666667,
+            "dy": 300.6376953125
+          },
+          "zone": "top_left"
+        },
+        {
+          "timestamp": "2025-09-03T20:25:23.245829",
+          "screen": "DemandDraftPage",
+          "position": {
+            "dx": 84.66145833333333,
+            "dy": 348.6328125
+          },
+          "zone": "middle_left"
+        },
+        {
+          "timestamp": "2025-09-03T20:25:25.611136",
+          "screen": "DemandDraftPage",
+          "position": {
+            "dx": 157.65625,
+            "dy": 469.6373697916667
+          },
+          "zone": "center"
+        }
+      ],
+      "swipe_events": []
+    }
+  ],
+  "screen_durations": {
+    "HomePage": 2,
+    "TransferTypePage": 23,
+    "DemandDraftPage": 40
+  },
+  "screen_recording_detected": false,
+  "session_input": {
+    "within_bank_transfer_amount": null,
+    "fd_broken": false,
+    "loan_taken": false,
+    "time_from_login_to_fd": null,
+    "time_from_login_to_loan": null,
+    "time_from_login_to_transaction": null,
+    "time_for_transaction": null
+  },
+  "behavior_analysis": [
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:22:47.540613",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 70
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:23:32.877798",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 11
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:23:34.387545",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 8
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:23:35.724501",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 8
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:23:38.116302",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 10
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:23:56.115779",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 5
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:23:58.177750",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 26
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:24:08.886418",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 11
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:24:34.691656",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 10
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-09-03T20:25:36.156513",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 8
+    }
+  ]
+}

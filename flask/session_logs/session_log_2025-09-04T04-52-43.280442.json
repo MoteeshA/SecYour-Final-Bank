@@ -1,0 +1,74 @@
+{
+  "session": {
+    "start": "2025-09-04T04:52:34.058689",
+    "end": "2025-09-04T04:52:36.432901",
+    "duration_seconds": 2,
+    "penalties_applied": [],
+    "trust_score": "91.00"
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "google",
+    "model": "sdk_gphone64_arm64",
+    "manufacturer": "Google",
+    "version": "16",
+    "sdk_int": 36
+  },
+  "location": {
+    "latitude": 37.4219983,
+    "longitude": -122.084
+  },
+  "tap_durations_ms": [],
+  "tap_events": [
+    {
+      "timestamp": "2025-09-04T04:52:36.407915",
+      "screen": "HomePage",
+      "position": {
+        "dx": 399.3098958333333,
+        "dy": 78.99446614583333
+      },
+      "zone": "top_right"
+    }
+  ],
+  "swipe_events": [],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-09-04T04:52:34.118452",
+      "tap_events": [
+        {
+          "timestamp": "2025-09-04T04:52:36.407915",
+          "screen": "HomePage",
+          "position": {
+            "dx": 399.3098958333333,
+            "dy": 78.99446614583333
+          },
+          "zone": "top_right"
+        }
+      ],
+      "swipe_events": []
+    }
+  ],
+  "screen_durations": {
+    "HomePage": 2
+  },
+  "screen_recording_detected": false,
+  "session_input": {
+    "within_bank_transfer_amount": null,
+    "fd_broken": false,
+    "loan_taken": false,
+    "time_from_login_to_fd": null,
+    "time_from_login_to_loan": null,
+    "time_from_login_to_transaction": null,
+    "time_for_transaction": null
+  },
+  "behavior_analysis": [
+    {
+      "id": 6,
+      "timestamp": "2025-09-04T04:52:36.425233",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 18
+    }
+  ]
+}
